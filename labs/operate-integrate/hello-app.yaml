@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: demo-registry-quay-quay-demo.apps.ocp46.example.com/repository/finance/do480-hello-app
+        image: demo-registry-quay-quay-demo.apps.ocp46.example.com/finance/do480-hello-app
 ---
 apiVersion: v1
 kind: Service
