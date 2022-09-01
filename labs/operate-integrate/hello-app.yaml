@@ -45,7 +45,7 @@ metadata:
     name: hello-app
   namespace: operate-integrate
 spec:
-  host: hello-app.apps.ocp4.example.com
+  host: hello-app-operate-integrate.apps.ocp46.example.com
   subdomain: ''
   to:
     kind: Service
